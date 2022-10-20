@@ -2,7 +2,7 @@
 buildscript {
     ext {
         kotlinVersion = '1.7.10'
-        navigationVersion = '2.5.1'
+        navigationVersion = '2.5.2'
         hiltVersion = '2.43.2'
     }
     repositories {
@@ -10,7 +10,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.2.2'
+        classpath 'com.android.tools.build:gradle:7.3.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
 
         classpath "androidx.navigation:navigation-safe-args-gradle-plugin:$navigationVersion"
@@ -37,13 +37,13 @@ ext {
     compileSdkVersion = 33
 
     // App dependencies
-    appCompatVersion = '1.5.0'
+    appCompatVersion = '1.5.1'
     constraintLayoutVersion = '2.1.4'
     espressoVersion = '3.4.0'
     glideVersion = '4.11.0'
     hiltAndroidXVersion = '1.0.0-alpha03'
     junitVersion = '4.13.2'
-    ktxVersion = '1.8.0'
+    ktxVersion = '1.9.0'
     pagingVersion = '3.2.0-alpha02'
     retrofitVersion = '2.9.0'
     testExtJunitVersion = '1.1.3'

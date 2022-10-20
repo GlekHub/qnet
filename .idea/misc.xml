@@ -6,6 +6,8 @@
         <entry key="..\:/AndroidStudioProjects/qnet2/app/src/main/res/drawable/gradient.xml" value="0.124" />
         <entry key="..\:/AndroidStudioProjects/qnet2/app/src/main/res/layout/activity_main.xml" value="0.22192028985507245" />
         <entry key="..\:/AndroidStudioProjects/qnet2/app/src/main/res/layout/fragment_details.xml" value="0.11302083333333333" />
+        <entry key="..\:/AndroidStudioProjects/qnet2/app/src/main/res/layout/fragment_gallery.xml" value="0.22192028985507245" />
+        <entry key="..\:/AndroidStudioProjects/qnet2/app/src/main/res/layout/item_unsplash_photo.xml" value="0.22192028985507245" />
       </map>
     </option>
   </component>
